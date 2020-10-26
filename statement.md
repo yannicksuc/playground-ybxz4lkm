@@ -1,10 +1,9 @@
 # Welcome!
 
-This PHP template lets you get started quickly with a simple one-page playground.
+Faite un tableau qui contient 42, 37, et 28;
 
 ```php runnable
 <?php
-echo "Hello World!";
 ?>
 ```
 
